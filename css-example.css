@@ -1,0 +1,16 @@
+body {
+	font-size: 14px;
+	color: navy;
+}
+
+h1 {
+	color: #ffc;
+	background-color: #009;
+	font-weight: 500;
+	font-style: italic;
+	text-decoration: underline
+}
+
+p {
+	text-transform: capitalize;
+}
